@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparison Between HTML and C++</title>
+</head>
+<body>
+    <h1>Comparison Between HTML and C++</h1>
+    <table border="1">
+        <tr>
+            <th>Aspect</th>
+            <th>HTML</th>
+            <th>C++</th>
+        </tr>
+        <tr>
+            <td>Purpose</td>
+            <td>Defines the structure and layout of web pages.</td>
+            <td>Used for general-purpose programming and application development.</td>
+        </tr>
+        <tr>
+            <td>Type</td>
+            <td>Markup language (not a programming language).</td>
+            <td>Compiled, procedural, and object-oriented programming language.</td>
+        </tr>
+        <tr>
+            <td>Use Case</td>
+            <td>Designing the front-end of websites and web applications.</td>
+            <td>Building system software, applications, and games.</td>
+        </tr>
+        <tr>
+            <td>Syntax</td>
+            <td>Uses tags like `<h1>`, `<p>`, `<a>`.</td>
+            <td>Uses curly braces `{}` and follows a programming structure with statements like `std::cout << "Hello";`.</td>
+        </tr>
+        <tr>
+            <td>Functionality</td>
+            <td>Only for presentation and layout, no logic or computation.</td>
+            <td>Supports complex logic, memory management, and computational tasks.</td>
+        </tr>
+        <tr>
+            <td>Platform</td>
+            <td>Works on web browsers (cross-platform).</td>
+            <td>Can be used on multiple platforms (Windows, macOS, Linux) with the right compiler.</td>
+        </tr>
+    </table>
+</body>
+</html>

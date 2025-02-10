@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Website</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>This is a comparison Between HTML and C++.</p>
+    <img src="pages codes\prooo1.jpg" alt="Sample Image" width="500">   
+    <img src="pages codes\proooo2.jpg" alt="Sample Image" width="500">
+    
+    <h2>Pages</h2>
+    <ul>
+        <li><a href="web%20pages/page2.html">About HTML</a></li>
+        <li><a href="web%20pages/page4%20.html">About C++</a></li>
+        <li><a href="web%20pages/page3.html">Comparison Between HTML and C++</a></li>
+        <li><a href="web%20pages/page5.html">Pictures of HTML and C++ codes</a></li>
+    </ul>
+</body>
+</html>
+
+<!-- about.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Us</title>
+</head>
+<body>
+    <h1>About Me</h1>
+    <p>Learn more about Me.</p>
+    <a href="web%20pages/page6.html">About Me</a>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <style>
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 18px;
+            text-align: left;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <h1>Contact Me</h1>
+    <p>Email me at <a href="mailto:abdullahtt72@gmail.com">abdullahtt72@gmail.com</a></p>
+    
+    <h2>Additional Contact Information</h2>
+    <table>
+        <tr>
+            <th>Type</th>
+            <th>Email</th>
+        </tr>
+        <tr>
+            <td>College Email</td>
+            <td><a href="mailto:4616047@bpcs.edu.sa">4616047@bpcs.edu.sa</a></td>
+        </tr>
+        <tr>
+            <td>Personal Email</td>
+            <td><a href="mailto:abdullahtt72@gmail.com">abdullahtt72@gmail.com</a></td>
+        </tr>
+    </table>
+</body>
+</html>
